@@ -23,10 +23,10 @@ The instalation instructions can be found in [Instructions](/Instructions) if yo
 3. On the Channels page, click **New Channel**.
 4. Name the new channel **Measurement**.
 5. Name Field 1 **Weight**. 
-![ThingSpeak Channel Name](ThingSpeakChannelName.png)
+![ThingSpeak Channel Name](/Images/ThingSpeakChannelName.png)
 6. Click **Save Channel** at the bottom of the settings.
 7. The following screen should be visible. Click API Keys.  
-![ThingSpeak API Keys](ThingSpeakAPIKeys.png)
+![ThingSpeak API Keys](/Images/ThingSpeakAPIKeys.png)
 8. Note your **Channel ID** and your **Write API Key**. They will be needed for setup.
 
 ### Project Setup
@@ -44,16 +44,16 @@ Project Setup
 
 ### Test Instructions
 1. Upon opening the app, you will be greeted with a profile creation screen.
-![Android Test Instructions 1](/Images/AndroidTestInstructions1.png)
+![Android Test Instructions 1](/Images/AndroidTestInstruction1.png)
 2. Either enter your name manually or select a contact to populate the fields.
 3. Tap the checkmark after the fields are populated.
-![Android Test Instructions 2](/Images/AndroidTestInstructions2.png)
+![Android Test Instructions 2](/Images/AndroidTestInstruction2.png)
 4. Tap the Wi-Fi
-![Android Test Instructions 3](/Images/AndroidTestInstructions3.png)
+![Android Test Instructions 3](/Images/AndroidTestInstruction3.png)
 5. Accept all permission
-![Android Test Instructions 4](/Images/AndroidTestInstructions4.png)
-![Android Test Instructions 5](/Images/AndroidTestInstructions5.png)
+![Android Test Instructions 4](/Images/AndroidTestInstruction4.png)
+![Android Test Instructions 5](/Images/AndroidTestInstruction5.png)
 6. The device should connect as indicated by the green dot on the Wi-Fi symbol.
-![Android Test Instructions 6](/Images/AndroidTestInstructions6.png)
+![Android Test Instructions 6](/Images/AndroidTestInstruction6.png)
 7. Step on scale to acquire weight.
-![Android Test Instructions 7](/Images/AndroidTestInstructions7.png)
+![Android Test Instructions 7](/Images/AndroidTestInstruction7.png)
