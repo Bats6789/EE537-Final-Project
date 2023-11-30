@@ -7,6 +7,20 @@ The following libraries are required for this project:
 * LCD Library - [LiquidCrystal_I2C](https://github.com/ribasco/new-liquidcrystal)
 * ThingSpeak - [ThingSpeak](https://github.com/mathworks/thingspeak-arduino)
 
+## Circuit setup
+The circuit should be setup similar to the schematics found in [CircuitSchematic](/CircuitSchematic)
+
+## Parts list
+| Part Name     | Quantity |          Company          |       MFG PN       |
+| :------------ | :------: | :-----------------------: | -----------------: |
+| ESP32         |     1    |           ESP32           | ESP32-S2-DevKitM-1 |
+| HX711         |     1    |    Sparkfun Electronics   |          SEN-13879 |
+| Load Cell     |     4    | Seeed Technology Co., Ltd |          114990100 |
+| LCD           |     1    |         SunFounder        |            CN0295D |
+| 3.3k resistor |     3    | Stackpole Electronics Inc |         CF18JT3K30 |
+| Switch        |     3    |    Sparkfun Electronics   |          COM-09190 |
+
+
 ## Instalation instructions
 The instalation instructions can be found in [Instructions](/Instructions) if you prefer the word file.
 
