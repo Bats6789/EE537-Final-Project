@@ -49,11 +49,11 @@ Project Setup
 2.  Load ESPCalibration.ino onto the ESP32. Instructions will be displayed on the LCD.
 3.  Note the calibration number obtained.
 4.  Navigate to ESPSoftware.ino to change the following parameters:
-    a.  On line 23, replace <factor> with your calibration number obtained in step 3. 
-    b.  On line 26, modify <WiFi-Name> to your WiFi networks name.
-    c.  On line 27, modify <WiFi-Password> to your WiFi password.
-    d.  On line 30, modify <API-KEY> with your write API-KEY obtained in the ThingSpeak setup.
-    e.  On line 31, modify <channel-ID> to contain your channel ID obtained in the ThingSpeak setup.
+    1.  On line 23, replace <factor> with your calibration number obtained in step 3. 
+    2.  On line 26, modify <WiFi-Name> to your WiFi networks name.
+    3.  On line 27, modify <WiFi-Password> to your WiFi password.
+    4.  On line 30, modify <API-KEY> with your write API-KEY obtained in the ThingSpeak setup.
+    5.  On line 31, modify <channel-ID> to contain your channel ID obtained in the ThingSpeak setup.
 5.  Save and load the file onto the ESP32. The device is now ready for use.
 
 ### Test Instructions
